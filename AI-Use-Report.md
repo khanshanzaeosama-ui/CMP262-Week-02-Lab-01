@@ -2,10 +2,10 @@
 
 ## Student Information
 
-- Student name:
-- Week:
-- Lab:
-- Date:
+- Student name: Shanzae Khan
+- Week: 02
+- Lab: 01
+- Date: 9/8/2026
 
 ## AI Use
 
